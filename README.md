@@ -30,6 +30,10 @@ Navegue para o diretório do projeto:
 ````
 cd user-management-api
 ````
+E após isso:
+````
+code .
+````
 
 Instalando dependências principais:
 ````
