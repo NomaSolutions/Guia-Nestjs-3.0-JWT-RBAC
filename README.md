@@ -144,7 +144,7 @@ enum Role {
 }
 ````
 
-Antes de executar as migrations, suba o banco de dados:
+Antes de executar as migrations, suba o banco de dados (Obs: Abra o Docker):
 ````
 docker-compose up -d db
 ````
