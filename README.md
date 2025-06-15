@@ -52,7 +52,7 @@ npm install -D @types/passport-jwt @types/bcryptjs
 # 2. Configuração do Docker
 Crie o arquivo Dockerfile na raiz do projeto:
 ````
-dockerfileFROM node:18-alpine
+FROM node:18-alpine
 
 WORKDIR /app
 
