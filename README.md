@@ -67,8 +67,11 @@ RUN npm run build
 EXPOSE 3000
 
 CMD ["npm", "run", "start:prod"]
+````
+
 Crie o arquivo docker-compose.yml na raiz do projeto:
-yamlversion: '3.8'
+````
+version: '3.8'
 
 services:
   app:
