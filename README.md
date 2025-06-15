@@ -17,6 +17,7 @@ Executando a aplicação
 # 1. Configuração inicial do projeto
 Instalando o NestJS CLI e criando o projeto:
 ````
+npm i
 npm i -g @nestjs/cli
 nest new user-management-api
 ````
